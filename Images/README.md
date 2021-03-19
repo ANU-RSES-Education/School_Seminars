@@ -1,4 +1,7 @@
-Images to embed in the researchseminars.org pages.
+## Images to embed in the researchseminars.org pages.
 
-**Note:** to obtain the embedding link click on the image and copy the address from the "download" button.
+![Download](HowToDownload.png)
+
+To obtain the embedding link click on the image and copy the address from the "download" button using your browser.
+
 
