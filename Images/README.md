@@ -1,4 +1,4 @@
-## Images to embed in the researchseminars.org pages.
+## This directory has images for the researchseminars.org pages.
 
 ![Download](HowToDownload.png)
 
