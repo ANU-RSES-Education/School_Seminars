@@ -16,4 +16,5 @@ We keep images in the `Images` directory and it is fine to upload these as `jpg`
 the github browser interface. Please name the uploaded file so that it is easy to figure out which file is which.
 
 To find the url for the file, click on the name in the github browser, check the preview and look at the link 
-that is associated with the `download` button. If that is not entirely clear [see these instructions](Images/Readme.md)
+that is associated with the `download` button. If that is not entirely clear [see these instructions](https://github.com/ANU-RSES-Education/School_Seminars/blob/main/Images/README.md)
+
