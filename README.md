@@ -8,6 +8,7 @@ To add embed an image in the researchseminars.org site, use html tags as follows
 
 ```
 <img width=100% src="https://github.com/ANU-RSES-Education/School_Seminars/raw/main/Images/HowToDownload.png">
+<figcaption><small><i>Caption here</i></small></figcaption>
 ```
 
 ## Uploading an image and finding the url
